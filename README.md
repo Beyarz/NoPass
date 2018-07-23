@@ -7,6 +7,7 @@ You only have to click on the verify button, run the script and then you would a
 
 Here's a couple of images of how the website looks like.
 ![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/index.png)
+![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/verification.png)
 ![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/home.png)
 
 Idk why I did this part, it had no use.
