@@ -19,7 +19,7 @@ int main() {
 	
 	/* Getting hostname */
 	char hostname[64];
-    gethostname(hostname, 64);
+	gethostname(hostname, 64);
 	
 	/* Getting os name */
 	struct utsname name;
