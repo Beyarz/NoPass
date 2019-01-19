@@ -27,4 +27,4 @@ $col8 = "timestamp";
 $filename = "verify";
 $port = "63342";
 $domain = "localhost";
-$path = "/PhpstormProjects/Slutprojekt/register.php";
+$path = "register.php";
