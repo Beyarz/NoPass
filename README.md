@@ -10,9 +10,9 @@ You only have to click on the verify button, run the script and then you would a
 
 ### Preview
 Here's a couple of images of how the website looks like.
-![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/index.png)
-![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/verification.png)
-![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/home.png)
+![Demo image](media/index.png)
+![Demo image](media/verification.png)
+![Demo image](media/home.png)
 
 Idk why I did this part, it had no use.
-![Demo image](https://raw.githubusercontent.com/Beyarz/noPass.php/master/about.png)
+![Demo image](hmedia/about.png)
