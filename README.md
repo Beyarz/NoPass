@@ -15,4 +15,4 @@ Here's a couple of images of how the website looks like.
 ![Demo image](media/home.png)
 
 Idk why I did this part, it had no use.
-![Demo image](hmedia/about.png)
+![Demo image](media/about.png)
