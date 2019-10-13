@@ -1,7 +1,7 @@
 <?php
 /*
  * Created by PhpStorm.
- * User: Beyarz
+ * User: Beyar
  * Date: 2018-05-20
  * Time: 19:11
  */
@@ -227,7 +227,7 @@ $connect->close();
             <div class="ui container">
                 <div class="ui inverted">
                     <div class="ui center aligned container">
-                        <p>Made with ❤️ by <a href="#">Beyar N</a></p>
+                        <p>Made with ❤️ by <a href="#">Beyar</a></p>
                     </div>
                 </div>
             </div>

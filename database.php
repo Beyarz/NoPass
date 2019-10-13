@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Beyarz
+ * User: Beyar
  * Date: 2018-05-23
  * Time: 21:56
  */
